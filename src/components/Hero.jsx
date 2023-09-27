@@ -29,7 +29,7 @@ export default function Hero() {
         <li><strong>First Name:</strong> ${firstName}</li>
         <li><strong>Last Name:</strong> ${lastName}</li>
         <li><strong>Email:</strong> ${email}</li>
-        <li><strong>Inquiry:</strong> ${inquiry}</li>
+        <li><strong>Description:</strong> ${inquiry}</li>
       </ul>
     </div>
   `;
