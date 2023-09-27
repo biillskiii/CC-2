@@ -10,7 +10,7 @@ import Logo from "../assets/logo.png";
 export default function Footer() {
   return (
     <div className="bg-gray-200 py-8 mx-auto flex justify-center items-center mt-5">
-      <div className="mr-5"> 
+      <div className="mr-5">
         <img src={Logo} alt="Logo" width={150} className="ml-2 mr-5" />
       </div>
       <div className="flex gap-x-36 ml-5">
